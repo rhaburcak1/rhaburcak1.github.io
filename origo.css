@@ -2,6 +2,8 @@
 Original design: Origo (v1.1 - Oct 04, 2012) - A free xhtml/css website template by Andreas Viklund.
 For more information, see http://andreasviklund.com/templates/origo/
 */
+ul.circ {margin:0 0 10px 15px; padding:0;}
+li.circ {margin:0; padding:0 0 0 5px}
 
 *{margin:0; padding:0;}
 
@@ -66,6 +68,11 @@ ul.menu {list-style:none; margin:0; padding:10px 0; border-top:1px solid #333;}
 ul.menu li {list-style:none; text-align:center; font-size:1.2em; margin:0 0 10px; padding:0 0 8px 0; color:#888; border-bottom:1px solid #333;}
 ul.menu li a {font-size:1.2em; font-weight:400;}
 ul.menu li a:hover {color:#eee; text-decoration:none;}
+li.circ {
+    margin: 0;
+    padding: 0 0 0 5px;
+}
+
 
 /* Additional text classes */
 .slogan {color:#bbb; font-size:1.2em;}
