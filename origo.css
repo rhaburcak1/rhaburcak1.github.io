@@ -2,7 +2,7 @@
 Original design: Origo (v1.1 - Oct 04, 2012) - A free xhtml/css website template by Andreas Viklund.
 For more information, see http://andreasviklund.com/templates/origo/
 */
-ul.circ {margin:0 0 10px 15px; padding:0;}
+ul.circ {margin:0 10px 10px 15px; padding:0;}
 li.circ {margin:0; padding:0 0 0 5px}
 
 *{margin:0; padding:0;}
